@@ -2,7 +2,7 @@ package net.gicp.abe.test;
 
 public class TestStream {
 	public static void main(String[] args) {
-		System.out.println("ÊÇÁË.");
+		System.out.println("æ˜¯äº†.");
 	}
 }
 
